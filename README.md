@@ -10,6 +10,7 @@ These files are meant to be consumed in the following order -
 2. multiclass_classification_decision_boundaries
 3. svm_and_nonlinear_classification
 4. ensemble_learning
+5. unsupervised_learning
 
 Find more descriptions of the material, along with other tips and tricks, visit my blog here:
 [michaelsmirnov.com](https://michaelsmirnov.com)

@@ -11,6 +11,7 @@ These files are meant to be consumed in the following order -
 3. svm_and_nonlinear_classification
 4. ensemble_learning
 5. unsupervised_learning
+6. unsupervised_learning_2_images
 
 Find more descriptions of the material, along with other tips and tricks, visit my blog here:
 [michaelsmirnov.com](https://michaelsmirnov.com)

@@ -16,5 +16,8 @@ These files are meant to be consumed in the following order -
 Find more descriptions of the material, along with other tips and tricks, visit my blog here:
 [michaelsmirnov.com](https://michaelsmirnov.com)
 
+For the next set of follow-along tutorials, follow this-here link:
+https://github.com/mikeusru/neural-network-training
+
 ## References:
 Géron, Aurélien. Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems. O'Reilly Media, 2019.
